@@ -13,20 +13,20 @@ Kimia has provided the initial styles for Buttons, Text, and the bottom sheet. N
 
 In the bottom sheet, our goal is to create a dropdown-style filter. However, a concern has arisen. When there is insufficient space at the bottom to display the dropdown, it should open from the top, and vice versa when sufficient space is available.
 
-![Challenge 1]([image_location_1](https://raw.githubusercontent.com/novaday-co/flutter-test/master/screen_shots/challenge1.png))
+![Challenge 1](https://raw.githubusercontent.com/novaday-co/flutter-test/master/screen_shots/challenge1.png)
 
 ### Challenge 2
 
 Within the bottom sheet, we require a user selection filter. The intriguing aspect is that after each typing action, an overlay should appear above or below the TextField to present user options (similar to a dropdown). Upon selecting a user, their choice should be displayed as a Chip within the TextField, with the option to remove it.
 
-![Challenge 2]([image_location_2](https://raw.githubusercontent.com/novaday-co/flutter-test/master/screen_shots/challenge2.png))
+![Challenge 2](https://raw.githubusercontent.com/novaday-co/flutter-test/master/screen_shots/challenge2.png)
 
 ### Challenge 3
 
 Using the Bloc State Management, showcase the selected filters on the main page. The crucial point is to ensure that the filters persist even after the application is closed and reopened.
 Guidance: Consider utilizing Hive or an alternative approach.
 
-![Challenge 3]([image_location_3](https://raw.githubusercontent.com/novaday-co/flutter-test/master/screen_shots/home.png))
+![Challenge 3](https://raw.githubusercontent.com/novaday-co/flutter-test/master/screen_shots/home.png)
 
 ## Integration Test
 
